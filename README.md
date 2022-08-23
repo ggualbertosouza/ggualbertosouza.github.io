@@ -1,2 +1,4 @@
 # ggualbertosouza.github.io
-Currículo
+Currículo provisório do Dog Dev. 
+
+Feito na jornada dev da EBAC
